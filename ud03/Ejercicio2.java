@@ -10,14 +10,14 @@ public class Ejercicio2 {
 
         int mes = input.nextInt();      
 
-        switch(mes) {
+        switch (mes) {
 
             case 1:
-                System.out.println("El mes" + mes + "tiene 28 días.");
+                System.out.println("El mes" + mes + "tiene 31 días.");
                 break;
 
             case 2:
-                System.out.println("El mes" + mes + "tiene 31 días.");
+                System.out.println("El mes" + mes + "tiene 28 días.");
                 break;
 
             case 3:
